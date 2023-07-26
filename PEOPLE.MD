@@ -1,1 +1,1 @@
-Haskell Curry
+Maksim Matynkin
