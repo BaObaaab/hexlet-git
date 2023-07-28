@@ -3,3 +3,4 @@ new line
 some text
 experiment with amend
 -ammend add
+-ammend add
