@@ -1,1 +1,1 @@
-Texty text. :)
+-git is awesome!
