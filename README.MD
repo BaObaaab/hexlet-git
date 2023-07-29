@@ -1,1 +1,1 @@
-new text
+I love Hexlet!
